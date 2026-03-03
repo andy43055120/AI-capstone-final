@@ -64,6 +64,9 @@ Attributes
 ### Test result
 <img width="635" height="141" alt="image" src="https://github.com/user-attachments/assets/75e04b92-c16d-4454-8cf4-29845b408976" />
 
+## Paper reference 
+D. Yang et al., "Predicting Pedestrian Crossing Intention With Feature Fusion and Spatio-Temporal Attention"
+
 
 
 
